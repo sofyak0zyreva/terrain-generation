@@ -24,5 +24,11 @@ python world_drawer.py
 ```
 You can change seed in the files themselves, or resolution in `config`
 
+
+The result will look like this:
+
+<img width="900" src=examples/worlds1.png align="center">
+Cool, huh?
+
 ## License
 The product is distributed under MIT license. See [`LICENSE`](LICENSE) for details.
