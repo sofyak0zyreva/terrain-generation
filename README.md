@@ -23,3 +23,6 @@ To save terrain map to an image:
 python world_drawer.py
 ```
 You can change seed in the files themselves, or resolution in `config`
+
+## License
+The product is distributed under MIT license. See [`LICENSE`](LICENSE) for details.
